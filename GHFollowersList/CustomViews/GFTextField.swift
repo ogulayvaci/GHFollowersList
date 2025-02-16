@@ -36,6 +36,6 @@ class GFTextField: UITextField {
         autocorrectionType = .no
         returnKeyType = .go
          
-        placeholder = "Search..."
+        placeholder = "Search a username"
     }
 }
