@@ -11,7 +11,7 @@ This is an iOS app built with UIKit (Fully Programmatic) that allows users to se
 
 ## Technologies Used
 
-- UIKit (programmatically, without Storyboard)
+- UIKit (programmatically, without Storyboard, and no 3rd Party Libraries)
 - GitHub Developer API (for fetching user and follower data)
 - Networking (using URLSession for API calls)
 - Persistence (UserDefaults or Core Data for saving favorites)
