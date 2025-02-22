@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  GHFollowersList
 //
-//  Created by Ogul Ayvaci on 16.02.2025.
+//  Created by Ogul Ayvaci on 19.02.2025.
 //
 
 import Foundation
